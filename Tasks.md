@@ -23,3 +23,4 @@ The generated APIs are automatically safeguarded against the most common SQL inj
 - Comprehensive error handling is included.
 
 - JWT support is enabled by default but can be deactivated if not needed.
+
