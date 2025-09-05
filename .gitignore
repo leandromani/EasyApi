@@ -602,7 +602,7 @@ node_modules/
 # Visual Studio 6 workspace and project file (working project files containing files to include in project)
 *.dsw
 *.dsp
-
+.ruff_cache
 # Visual Studio 6 technical files
 
 # Visual Studio LightSwitch build output
