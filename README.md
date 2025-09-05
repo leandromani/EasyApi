@@ -1,3 +1,6 @@
 # Easy Api docs
 
-### Still in developement
+## Tech stack
+python
+sqlite3
+shell
